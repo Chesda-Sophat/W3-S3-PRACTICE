@@ -1,0 +1,31 @@
+body {
+    background: grey;
+    font-family: sans-serif;
+}
+.container{
+    margin:0 100px;
+}
+.card{
+    background-color:white;
+    padding:30px;
+    margin:0 100px 30px 100px;
+    border-radius:10px;
+}
+.btn{
+    color:white;
+    border:none;
+    padding:10px 10px;
+    border-radius:30px;
+}
+.btn:hover{
+    cursor: pointer;
+}
+.btn-green{
+    background-color:rgb(19, 97, 97);
+}
+.btn-orange{
+    background-color: rgb(246, 187, 12);
+}
+.btn-purple{
+    background-color:rgb(110, 10, 204);
+}
